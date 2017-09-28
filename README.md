@@ -8,4 +8,4 @@ that are to be solved.
 
 
 ### Blender
-- Terrain GEneration using the Diamond-square algorithm
+- Terrain Generation using the Diamond-square algorithm
