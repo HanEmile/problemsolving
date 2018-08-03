@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 def prime_fact(val):
-    lista = []
     sux = 1
     largest = 0
     for i in range(1, val):
